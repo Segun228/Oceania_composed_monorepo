@@ -121,3 +121,7 @@ celerybeat.pid
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+
+.env.bot
+.env.backend
